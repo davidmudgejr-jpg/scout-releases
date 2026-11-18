@@ -4,7 +4,7 @@ Scout is a Mac app that gives your AI agents a Google Chrome window of their own
 
 ## Install
 
-1. Download **Scout-0.17.0.dmg** from the [latest release](../../releases/latest).
+1. Download **Scout-0.17.1.dmg** from the [latest release](../../releases/latest).
 2. Open it and drag **Scout** to **Applications**.
 3. Open Scout and click **Connect Scout to my agents**.
 
